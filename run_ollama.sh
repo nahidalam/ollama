@@ -15,7 +15,7 @@ docker pull ollama/ollama >> "$LOG_FILE" 2>&1 || { log_error "Failed to pull the
 docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama >> "$LOG_FILE" 2>&1 || { log_error "Failed to run the docker container"; exit 1; }
 
 # Run the additional command
-docker exec -it ollama ollama run llava "describe this image: ./art.jpg" >> "$LOG_FILE" 2>&1
+docker exec -it ollama ollama run llava-llama3 "describe this image: ./art.jpg" >> "$LOG_FILE" 2>&1
 if [ $? -ne 0 ]; then
     log_error "Failed to execute the additional command"
     exit 1
