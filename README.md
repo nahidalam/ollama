@@ -8,6 +8,10 @@
 
 Get up and running with large language models locally.
 
+### Instruction for Dev branch
+- create a python virtual env `python -m venv env` and activate that
+- `pip install -r requirements.txt`
+
 ### macOS
 
 [Download](https://ollama.com/download/Ollama-darwin.zip)
