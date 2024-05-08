@@ -1,7 +1,7 @@
 import ollama
-
+ollama.pull('llava-llama3')
 res = ollama.chat(
-	model="llava",
+	model="llava-llama3",
 	messages=[
 		{
 			'role': 'user',
