@@ -32,7 +32,7 @@ for image_path in image_paths:
         messages=[
             {
                 'role': 'user',
-                'content': f'{prompt}',
+                'content': f'Context: {context} Prompt: {prompt}',
                 'images': [image_path]
             }
         ]
