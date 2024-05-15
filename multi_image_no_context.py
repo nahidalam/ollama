@@ -1,16 +1,20 @@
 import os
+import time
 import ollama
 
+# Start time
+start_time = time.time()
 
-#model = 'llava-llama3'
-model = 'llava-phi3'
+# model = 'llava-llama3'
+#model = 'llava-phi3'
+model = 'llava'
 output_directory = 'output'
 file_name = f"output_ollama_{model}.txt"
 file_path = os.path.join(output_directory, file_name)
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
-# Pull the llava-llama3 model
-ollama.pull(model)
+# Pull the model. TODO: do not need it after first time, make it part of installation
+#ollama.pull(model)
 
 # Directory containing images
 image_dir = './frames'  # Specify the directory containing the images
@@ -19,20 +23,23 @@ image_dir = './frames'  # Specify the directory containing the images
 image_paths = [os.path.join(image_dir, f) for f in os.listdir(image_dir) if f.endswith('.jpg') or f.endswith('.png')]
 
 # Initial prompt
-prompt = 'Summarize the image, specially focus on people or vehicle if there is any'
+prompt = 'Summarize the image only if there is any person or vehicle'
 
 # Accumulator for context
-context = ''
+#context = ''
 
 # Loop over each image
 for image_path in image_paths:
+    # Get image file name with extension
+    image_file_name = os.path.basename(image_path)
+
     # Perform inference
     res = ollama.chat(
         model="llava-llama3",
         messages=[
             {
                 'role': 'user',
-                'content': f'Context: {context} Prompt: {prompt}',
+                'content': f'{prompt}',
                 'images': [image_path]
             }
         ]
@@ -43,14 +50,15 @@ for image_path in image_paths:
     output = res['message']['content']
     print(output)
     print("****************")
-    # Save the output to a text file
+    # Save the image file name and output to a text file
     with open(file_path, 'a') as file:
+        file.write("Image File: " + image_file_name + '\n')
         file.write(output+'\n'+'**********'+'\n')
 
-    # Update context
-    context += output
 
-    # Update prompt for the next iteration
-    prompt = context+'\n'+prompt
-    #print("current prompt:", prompt)
-    #print("---------------")
+# End time
+end_time = time.time()
+
+# Calculate execution time
+execution_time = end_time - start_time
+print("Execution Time:", execution_time, "seconds")
