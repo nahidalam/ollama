@@ -62,6 +62,11 @@ for image_path in image_paths:
     # Update prompt for the next iteration
     prompt = context+'\n'+prompt
 
+# Write total execution time and final prompt at the end of the file
+with open(file_path, 'a') as file:
+    file.write("\nTotal Execution Time: " + str(time.time() - start_time) + " seconds\n")
+    file.write("Final Prompt Used: " + prompt)
+
 # End time
 end_time = time.time()
 

@@ -55,6 +55,10 @@ for image_path in image_paths:
         file.write("Image File: " + image_file_name + '\n')
         file.write(output+'\n'+'**********'+'\n')
 
+# Write total execution time and final prompt at the end of the file
+with open(file_path, 'a') as file:
+    file.write("\nTotal Execution Time: " + str(time.time() - start_time) + " seconds\n")
+    file.write("Prompt Used: " + prompt)
 
 # End time
 end_time = time.time()
