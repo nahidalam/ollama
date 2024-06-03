@@ -5,9 +5,9 @@ import ollama
 # Start time
 start_time = time.time()
 
-# model = 'llava-llama3'
+model = 'llava-llama3'
 #model = 'llava-phi3'
-model = 'llava'
+#model = 'llava'
 output_directory = 'output'
 file_name = f"output_ollama_{model}.txt"
 file_path = os.path.join(output_directory, file_name)
