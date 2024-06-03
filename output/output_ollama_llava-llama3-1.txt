@@ -1,0 +1,46 @@
+Image File: frame_4.png
+The image presents a modern living room, bathed in soft light that accentuates the neutral tones of the space. Dominating the center of the room is a red sofa, its vibrant color contrasting with the muted surroundings. Flanking the sofa are two yellow armchairs, their bright hue adding a touch of warmth to the scene. Nestled between these chairs is a white coffee table, on which rests a single green vase, a splash of color against the monochrome backdrop.
+
+The room itself is characterized by gray walls and carpeting, lending an air of sophistication and tranquility. A large window punctuates one wall, offering a tantalizing glimpse of a pool outside. This architectural feature not only invites natural light into the room but also connects the indoor space with the exterior world.
+
+In summary, the image captures a harmonious blend of modern design elements - bold colors, sleek furniture, and expansive windows - all contributing to an atmosphere of comfort and elegance.
+**********
+Image File: frame_0.png
+In the image, a person is standing in an indoor setting. The individual is wearing a black shirt and has brown hair. They are holding a blue trash bag in their left hand and a green water bottle in their right hand.
+
+The room they are in appears to be a living area or lobby, furnished with various pieces of furniture. There's a red couch against one wall, and next to it, there's a wooden coffee table. In the background, there's a glass window that offers a view of an outdoor patio. On this patio, there are several potted plants placed strategically.
+
+The person seems to be in the process of sorting or organizing items from a cardboard box they're holding. The overall atmosphere of the image suggests it might be an office environment or a community space where people store their belongings.
+
+Please note that this description is based on the visible elements in the image and does not include any speculative or imaginary content.
+**********
+Image File: frame_1.png
+In the center of this image, a woman is engaged in the act of picking up a blue recycling bin from the floor. She is dressed in a black jacket and blue jeans, indicating perhaps that she is indoors, possibly at home or work. 
+
+The setting appears to be a modern living room, characterized by its contemporary design. The floor beneath her feet is gray, providing a neutral backdrop for the scene. In the background, there's a red couch and a yellow coffee table, adding splashes of color to the otherwise monochrome space.
+
+On one side of the room, there are two blue potted plants, their vibrant color contrasting with the green leaves they bear. On the other side, a wooden shelf stands tall, its surface covered by several blue bins. The presence of these objects suggests that this could be a common area of the house used for relaxation or social gatherings.
+
+Overall, the image captures a moment in the life of this woman, providing a glimpse into her domestic environment and actions.
+**********
+Image File: frame_3.png
+The image presents a modern living room with a clean, minimalist design. The floor is covered in gray carpet, providing a neutral base for the furniture and decorations.
+
+In the center of the room, there's a red sofa with three cushions. To its right, two additional yellow armchairs add a pop of color to the space. These pieces of furniture are arranged around a glass coffee table that sits atop a white rug. The table is currently unadorned, waiting for items to be placed upon it.
+
+On the left wall, there's a bookshelf housing an array of books and various decorations, adding a personal touch to the room. Above this bookshelf, mounted on the wall, is a flat-screen TV, ready for entertainment.
+
+The room is well-lit, with natural light streaming in through a window located above the red sofa. A plant sits on the windowsill, adding a touch of greenery to the space.
+
+Overall, the room is devoid of any human presence at the moment, waiting to be filled with life and activity.
+**********
+Image File: frame_2.png
+In the center of this image, a person is actively engaged in mopping the floor with a yellow mop. The individual is dressed in a white shirt and black pants, providing a stark contrast to the vibrant yellow mop they're using.
+
+The room itself is furnished with several red couches and chairs, adding a pop of color to the space. These pieces of furniture are arranged around a central coffee table, creating a cozy seating area. A potted plant graces one corner of the room, introducing a touch of greenery into the scene.
+
+The floor underfoot is made of gray carpet, providing a neutral backdrop for the colorful furnishings and the person at work. The precise location of each object and their relative positions contribute to the overall layout of the room. The image captures a moment in time within this space, with the person's action serving as the focal point.
+**********
+
+Total Execution Time: 110.78124713897705 seconds
+Prompt Used: Summarize the image only if there is any person or vehicle

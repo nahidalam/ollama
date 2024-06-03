@@ -1,0 +1,52 @@
+Image File: frame_4.png
+The image captures a modern living room bathed in soft light. Dominating the space are two vibrant red sofas, one positioned on each side of the room. They face each other, creating an intimate conversation area. In between them, a glass coffee table takes center stage, reflecting the light from above and adding to the room's brightness.
+
+On the right wall, a wooden shelf holds court, its surface adorned with various decorative items that add character to the space. The floor, covered in gray carpeting, extends throughout the room, its soft texture inviting one to step into it.
+
+Adding a touch of nature to the modern setting are several plants scattered around the room. They bring a sense of tranquility and life to the space. 
+
+On the left side of the image, there's an intriguing detail - a small portion of a staircase visible in the top right corner. This suggests that this living room might be part of a larger dwelling with multiple levels.
+
+Every object in the room is meticulously placed, creating a harmonious balance between form and function. The overall effect is a space that exudes comfort and style, a perfect blend of modern design and timeless elegance.
+**********
+Image File: frame_0.png
+In the image, a person is standing in a room with a checkered floor. The individual is dressed in a black jacket and brown pants, holding a white plastic bag in their right hand and a green water bottle in their left hand. 
+
+The room appears to be a waiting area or lobby, furnished with several red armchairs arranged around a glass coffee table. There's also a wooden bench visible in the background. On one side of the room, a trash can is placed. The person seems to be preparing to leave the space, as indicated by their belongings. 
+
+Please note that this description is based on the visible elements in the image and does not include any inferred or assumed information.
+**********
+Image File: frame_1.png
+In the image, a woman is standing in a room that appears to be an indoor shopping area. She is dressed in a black shirt and blue jeans. The woman is holding a pink cat toy in her hand. 
+
+The room she's in has a red couch positioned against one wall and a white trash can placed nearby. On the floor, there are two blue recycling bins. The background of the image reveals that this room might be part of a larger shopping area or perhaps even an indoor market, as evidenced by the presence of other people and objects in the distance.
+
+It's important to note that this description is based on the visible elements in the image and does not include any inferred or assumed information.
+**********
+Image File: frame_3.png
+The image captures a modern living room bathed in natural light. The room is characterized by its gray carpet that covers the floor and the walls, which are painted white. 
+
+On the right side of the image, there's a brown sofa adorned with yellow cushions. A wooden coffee table sits in front of the sofa, hosting two vases filled with flowers. A blue rug lies next to the coffee table, adding a pop of color to the otherwise neutral palette.
+
+Opposite this setup, on the left side of the room, is a red armchair paired with another yellow cushion. This arrangement mirrors the one on the right side, creating a sense of symmetry in the room's layout.
+
+In addition to the furniture, there are two people present in the room. One person is captured mid-stride, walking towards the door located on the left side of the image. The other person stands near the armchair, adding a touch of life to the scene.
+
+The room is further illuminated by several windows, allowing for an abundance of natural light that brightens up the space. The light reflects off the gray carpet and white walls, enhancing the overall ambiance of the room. 
+
+Despite the various elements in the room, there's no text visible in the image. The relative positions of the objects have been meticulously arranged to create a harmonious balance within the space. The image exudes a sense of tranquility and order, characteristic of modern interior design.
+**********
+Image File: frame_2.png
+The image captures a scene in an indoor area, likely a showroom or exhibition space. Dominating the center of the image is a large red sectional sofa. It's flanked by two yellow chairs on either side, creating a symmetrical arrangement. 
+
+On the left side of the sofa, there's a table with a vase and several other objects scattered across its surface. The right side of the sofa features another table, this one also adorned with a vase and various items.
+
+In the background, a person clad in a blue shirt is visible. They are engaged in cleaning the area around the red couch and yellow chairs, their actions suggesting meticulous care for the displayed furniture.
+
+The image does not contain any discernible text. The relative positions of the objects remain constant, with the red sofa as the central focus, flanked by the two yellow chairs, and the tables on either side. The person in the blue shirt is positioned at a distance from these main elements, further emphasizing the central arrangement of furniture. 
+
+Overall, the image presents a well-organized space, possibly designed for showcasing or retail purposes.
+**********
+
+Total Execution Time: 106.15551829338074 seconds
+Prompt Used: Summarize the image only if there is any person or vehicle

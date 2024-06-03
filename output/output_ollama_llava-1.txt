@@ -1,0 +1,51 @@
+Image File: frame_4.png
+The image presents a well-furnished room, possibly part of a hotel or conference center. The room is characterized by a gray carpet and white walls, creating a neutral backdrop for the various objects within it.
+
+In the heart of the room, a red sofa sits invitingly, accompanied by two matching yellow chairs. These pieces of furniture are arranged around a glass coffee table, which holds a few potted plants, adding a touch of green to the otherwise monochrome setting.
+
+To the left of the room, a wooden counter stands, while on the right side, there's a white desk. The positioning of these objects suggests a space designed for both relaxation and work.
+
+The room is further characterized by a glass door on the left side, which offers a glimpse into another space beyond. On the right side, a gray wall features a window with blinds partially drawn, allowing some light to filter in while maintaining privacy.
+
+In terms of object count, there's one red sofa, two yellow chairs, one coffee table, multiple potted plants, one wooden counter, and one white desk. The relative positions of these objects have been meticulously arranged to create a harmonious and functional space.
+**********
+Image File: frame_0.png
+In the image, a person is standing in a room with a wooden floor. The person is wearing a black shirt and holding a trash can. In their hand, they are also holding a green bottle. 
+
+The room contains several pieces of furniture, including two red couches positioned against one wall, a white table located nearby, and a yellow chair placed to the side. The furniture appears to be arranged for socializing or relaxation.
+
+In the background, there's a window that offers a view of a building outside. On the windowsill near the window, there's a single green balloon bobbing gently. Its presence adds a touch of color and whimsy to the scene.
+
+Overall, the image captures an everyday moment in a cozy indoor setting, with the person possibly preparing to enjoy some leisure time.
+**********
+Image File: frame_1.png
+In the image, there is a person standing on the left side of a room. The person is dressed in a blue shirt and jeans. They are positioned next to a yellow trash can that has a pink bag inside it.
+
+On the right side of the room, there is a red couch with a white pillow resting on it. A green plant is placed on the floor next to the couch.
+
+In front of the couch, there is another green plant and a blue trash can with a brown bag inside it. The room also features a window that offers a view of a building outside.
+
+Please note that this description is based on the visible elements in the image and does not include any inferred or assumed information.
+**********
+Image File: frame_3.png
+The image captures a modern living room bathed in soft light. Dominating the space are three large red armchairs, each adorned with a white cushion, inviting and plush. They face a sleek glass coffee table that sits atop a gray rug, reflecting the room's contemporary design aesthetic.
+
+In the background, a large window offers a glimpse of the world outside, while a wooden wall adds a touch of warmth to the otherwise cool palette of the room. A person stands near the entrance, adding a human element to the scene. Their presence suggests that this is not just an empty space, but a home filled with life and activity.
+
+Every object in the room, from the furniture to the person, contributes to painting a picture of a comfortable and stylish living space. The precise locations and actions of these objects create a harmonious composition that is both visually appealing and intriguing.
+**********
+Image File: frame_2.png
+The image depicts a scene in a modern living room. Here's a detailed description:
+
+- The room is dominated by **three red sofas** arranged in a semi-circle around a wooden coffee table.
+- Each sofa is adorned with a **yellow cushion**, adding a pop of color to the space.
+- On one side, there's a **blue rug** that contrasts nicely with the red sofas. 
+- A solitary **yellow chair** stands out against the gray carpeted floor.
+- The room features a white wall on one side and a glass door on another, allowing natural light to flood in.
+- In the foreground of the image, there's a wooden railing that adds depth to the scene.
+
+This arrangement suggests a cozy and inviting space for social gatherings or relaxation. The choice of colors - red, yellow, blue - creates a warm and welcoming atmosphere. The glass door allows for an abundance of natural light, while the wooden elements add a touch of rustic charm. Overall, it's a tastefully decorated modern living room.
+**********
+
+Execution Time: 105.4565372467041 seconds
+prompt = 'Summarize the image only if there is any person or vehicle'

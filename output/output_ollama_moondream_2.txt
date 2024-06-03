@@ -1,0 +1,50 @@
+Image File: frame_4.png
+The image captures a modern living room bathed in soft light. Dominating the center of the room is a large red sofa, its vibrant color contrasting with the neutral tones of the surroundings. Flanking the sofa are two yellow armchairs, their bright hue adding a pop of color to the space.
+
+In front of these pieces of furniture, a glass coffee table takes center stage. It's here that one would place a cup of tea or a good book for an evening read. The floor beneath them is a cool gray tile, reflecting the light and making the room appear larger.
+
+On the right side of the image, a wooden shelf stands tall, housing several potted plants. Their green leaves bring a touch of nature into this indoor setting. 
+
+In the top left corner, a window with closed blinds lets in just enough light to illuminate the room without overpowering it. The overall layout and design of the room suggest a sense of comfort and style. It's a space that invites relaxation and conversation.
+**********
+Image File: frame_0.png
+The image captures a scene from a store or showroom, viewed from a high angle. Dominating the center of the frame is a mannequin, dressed in a blue jacket and black pants, holding a white shopping bag with green handles. The mannequin is positioned next to a pile of wooden pallets, which are stacked on the left side of the photo.
+
+The background reveals a red couch and two yellow chairs, adding a pop of color to the scene. A black trash can is also visible, located near the center of the frame. On the right side of the image, there's a stack of green bottles.
+
+Despite the presence of these objects, the mannequin remains the focal point of the image due to its central position and distinct clothing. The high angle of the photo provides a comprehensive view of the scene, allowing for a detailed observation of each object and their relative positions.
+**********
+Image File: frame_1.png
+The image captures a scene in a waiting room. The room is furnished with various pieces of furniture, including chairs and tables. The floor beneath these objects is gray, providing a neutral backdrop for the other elements in the room.
+
+In the center of the frame, a person dressed in blue jeans is actively engaged in an activity. They are pushing a yellow cart towards two trash cans that stand side by side. The cart is equipped with a blue and white striped bag, ready to collect waste. 
+
+The person's action suggests they might be cleaning or maintaining the room. Their focus on the task at hand is evident, indicating their dedication to keeping the space tidy and hygienic.
+
+Despite the various elements in the room, there are no discernible texts or signs present. The relative positions of the objects suggest a well-organized space, with each piece of furniture and other item having its own designated place.
+
+Overall, the image presents a snapshot of a routine task performed by an individual in what appears to be a public waiting area. The exact purpose or location of the room is not clear from the image alone, but it does provide a glimpse into the daily tasks that go on in such spaces.
+**********
+Image File: frame_3.png
+The image captures a modern living room, viewed from an elevated perspective. The floor is covered in gray carpeting, providing a neutral base for the room's furniture. 
+
+In the center of the room, a red sofa and two matching yellow chairs are arranged around a glass coffee table. This arrangement creates a cozy conversation area, inviting guests to sit and chat. 
+
+To one side of the room, a wooden bench provides additional seating. It stands in contrast to the contemporary feel of the rest of the furniture, adding a touch of rustic charm.
+
+On the far wall, a large window offers a glimpse of the world outside, while also letting in natural light that brightens up the space. The window's position in relation to the other elements of the room suggests it might be used during the day for reading or enjoying views.
+
+Overall, the image presents a well-designed living space that balances comfort and style.
+**********
+Image File: frame_2.png
+The image captures a scene from an interior design showroom. Dominating the space are three red armchairs, arranged in a semi-circle around a black coffee table. The armchairs are unoccupied, their plush seats inviting and open to suggestion.
+
+In the background, a person is seen pushing a shopping cart, adding a dynamic element to the otherwise static scene. A blue sign stands out against the neutral tones of the showroom, although its text is not discernible from the image.
+
+The floor beneath is gray, providing a neutral base that allows the furniture to stand out. In one corner of the room, there's a green plant, a touch of nature amidst the modern decor.
+
+Overall, the image presents a well-organized and thoughtfully designed space, ready for customers to explore and imagine these pieces in their own homes.
+**********
+
+Total Execution Time: 65.80054092407227 seconds
+Prompt Used: Describe the image

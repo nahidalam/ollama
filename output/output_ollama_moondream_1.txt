@@ -1,0 +1,46 @@
+Image File: frame_4.png
+In the image, there are a total of 8 objects. The room is adorned with two vibrant yellow chairs and a matching yellow table that sits on a gray rug in the center of the room. Additionally, there are three green plants scattered throughout the space, adding a touch of nature to the indoor setting.
+
+Two red sofas are also present in the room, one positioned on each side. The walls of the room are painted white, providing a clean and bright backdrop for the other objects. On the left wall, a blackboard is mounted, perhaps serving as a canvas for ideas or messages.
+
+On the right wall, a clock is affixed, keeping track of time within this cozy space. Despite the presence of these various objects, there is no text visible in the image. The room appears to be well-arranged with each object having its own designated spot, contributing to a harmonious and organized living area.
+**********
+Image File: frame_0.png
+The image captures a scene from an indoor setting, possibly a mall or a restaurant. A person is seen in the foreground, engaged in an activity that involves empty bottles and cans. The individual, who appears to be bending over, has two garbage bags at their feet. These bags are brimming with discarded plastic bottles and cans.
+
+The background of the image reveals a seating area, furnished with red couches arranged around a glass table. On one side of this table, there's a sign that stands out due to its vibrant green color. The overall atmosphere of the scene suggests a public space where people gather, and perhaps, engage in activities like cleaning up.
+
+It's important to note that there are no discernible texts in the image, and the relative positions of the objects remain consistent with the descriptions provided. The person is indeed closer to the camera than the couches and the sign, indicating their prominence in the scene. The garbage bags are directly beneath the person, further emphasizing their activity.
+
+This description is based solely on the visible content of the image, without any assumptions or interpretations beyond what can be confidently determined from the image itself.
+**********
+Image File: frame_1.png
+In the image, there is a person in the center of the scene, who is wearing a black shirt and blue jeans. The person is holding a yellow bucket filled with items. They are walking past a red couch that is positioned against a white wall. On top of the red couch, there is a blue trash can.
+
+The room where this scene takes place has a gray floor, and in the background, there is a green plant adding a touch of nature to the space. The person's action suggests they might be cleaning or organizing, as indicated by the items in their bucket.
+
+Please note that this description is based on the visible elements in the image and does not include any inferred or assumed information.
+**********
+Image File: frame_3.png
+In the image, there is a single person present in an indoor setting. The person is standing near the edge of the room, which has gray walls and a tiled floor. 
+
+The room is furnished with multiple pieces of furniture, all exhibiting vibrant colors against the muted background. There are two red sofas, one positioned on each side of the room. A yellow coffee table sits between them, while a brown armchair is placed on the right side of the room.
+
+On the left wall, a large mirror reflects the room's interior, adding depth and dimension to the space. In contrast, on the right wall, two windows allow natural light to filter into the room.
+
+A black door stands closed at one end of the room, its stark color matching that of a black object resting in the bottom left corner of the image. The room is also adorned with several green plants, their fresh hue adding a touch of nature to the indoor setting. 
+
+Overall, the image captures a well-appointed living space, where each piece of furniture and decor contributes to creating a comfortable and inviting environment.
+**********
+Image File: frame_2.png
+In the image, a woman is seen vacuuming a gray carpet in an indoor room. She is dressed in casual attire, and she has a yellow vacuum cleaner that she's using to clean the floor. The woman appears to be moving around the room with her vacuum cleaner.
+
+The room itself is furnished with several pieces of furniture. A red couch sits against one wall, adding a pop of color to the space. Nearby, there's a brown coffee table and two matching armchairs, creating a cozy seating area.
+
+The floor beneath the furniture is made of gray carpet, which the woman is vacuuming. The walls of the room are white, providing a neutral backdrop for the scene. In one corner of the room, there's a plant adding a touch of greenery to the space.
+
+Overall, the image captures an everyday moment of domestic life, with the woman engaged in the task of keeping her living space clean and tidy. The presence of furniture suggests that this is a well-used and comfortable home environment. The colors in the room - the red couch, brown coffee table, gray carpet, white walls, and green plant - all contribute to creating a warm and inviting atmosphere.
+**********
+
+Total Execution Time: 74.97101211547852 seconds
+Prompt Used: Summarize the image only if there is any person or vehicle
