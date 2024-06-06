@@ -1,0 +1,18 @@
+Image File: frame_4.png
+A white man is in a room with a red couch.
+**********
+Image File: frame_0.png
+A person is wearing a black shirt and bending over a trash can that is next to an open recycling bin.
+**********
+Image File: frame_1.png
+A woman in blue jeans is putting a cat into a plastic bag.
+**********
+Image File: frame_3.png
+A person is standing next to a couch in a red and brown room with gray carpet.
+**********
+Image File: frame_2.png
+A woman in a black top and blue jeans is vacuuming the floor of an empty living room.
+**********
+
+Total Execution Time: 28.510644912719727 seconds
+Prompt Used: Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment

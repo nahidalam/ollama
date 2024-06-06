@@ -1,0 +1,18 @@
+Image File: frame_4.png
+A person is standing in a living room with red furniture.
+**********
+Image File: frame_0.png
+A man wearing a black shirt, standing by the trash cans with a bottle of hand sanitizer nearby.
+**********
+Image File: frame_1.png
+A woman in a black shirt and blue jeans standing by the trash cans.
+**********
+Image File: frame_3.png
+The person in the image is wearing a blue shirt and black pants.
+**********
+Image File: frame_2.png
+A woman in blue jeans stands next to a yellow mop.
+**********
+
+Total Execution Time: 32.06243085861206 seconds
+Prompt Used: Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment

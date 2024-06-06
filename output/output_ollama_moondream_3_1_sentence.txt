@@ -1,0 +1,18 @@
+Image File: frame_4.png
+A woman stands wearing black pants and a yellow shirt.
+**********
+Image File: frame_0.png
+a person in a black shirt holding a trash bag.
+**********
+Image File: frame_1.png
+A woman in a black shirt and blue jeans.
+**********
+Image File: frame_3.png
+A woman in a black top and blue pants.
+**********
+Image File: frame_2.png
+The person is wearing blue jeans and a black top.
+**********
+
+Total Execution Time: 34.72533893585205 seconds
+Prompt Used: Describe the person in the image in 1 sentence, with upper and lower body clothing color

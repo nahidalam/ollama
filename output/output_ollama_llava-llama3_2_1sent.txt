@@ -1,0 +1,18 @@
+Image File: frame_4.png
+A woman wearing a black shirt is sitting in front of a red sofa.
+**********
+Image File: frame_0.png
+A person wearing a black shirt is sitting on the floor and holding some garbage.
+**********
+Image File: frame_1.png
+Woman wearing a black shirt and blue jeans next to trash bins.
+**********
+Image File: frame_3.png
+A person in a blue shirt is standing near some brown couches.
+**********
+Image File: frame_2.png
+A person in a blue shirt and jeans standing near a yellow mop.
+**********
+
+Total Execution Time: 33.506235122680664 seconds
+Prompt Used: Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment. Do not describe gender or race

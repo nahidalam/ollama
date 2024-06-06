@@ -1,0 +1,18 @@
+Image File: frame_4.png
+a woman with a black shirt and white pants stands in a living room.
+**********
+Image File: frame_0.png
+A woman with brown hair wearing a black shirt holds two plastic trash bags.
+**********
+Image File: frame_1.png
+The person in the image is a woman wearing blue jeans and a black shirt. She is standing next to a yellow plastic bin and there are red couches near her.
+**********
+Image File: frame_3.png
+A person in a blue shirt and jeans is standing near two couches.
+**********
+Image File: frame_2.png
+A woman is in a living room with red couches, a coffee table and yellow chairs.
+**********
+
+Total Execution Time: 26.519593000411987 seconds
+Prompt Used: Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment

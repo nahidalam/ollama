@@ -5,10 +5,10 @@ import ollama
 # Start time
 start_time = time.time()
 
-#model = 'llava-llama3'
+model = 'llava-llama3'
 #model = 'llava-phi3'
 #model = 'llava'
-model = 'moondream'
+#model = 'moondream'
 output_directory = 'output'
 file_name = f"output_ollama_{model}.txt"
 file_path = os.path.join(output_directory, file_name)
@@ -24,7 +24,10 @@ image_dir = './frames'  # Specify the directory containing the images
 image_paths = [os.path.join(image_dir, f) for f in os.listdir(image_dir) if f.endswith('.jpg') or f.endswith('.png')]
 
 # Initial prompt
-prompt = 'Describe the image'
+#prompt = 'Describe the image'
+#prompt = 'Describe the person in the image in 1 sentence, with upper and lower body clothing color'
+#prompt = 'Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment'
+prompt = 'Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment. Do not describe gender or race'
 
 # Accumulator for context
 #context = ''
