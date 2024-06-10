@@ -38,15 +38,20 @@ def handle_image_selection(image_path, prompt):
     return response['content']
 
 # Directory containing images
-image_directory = "path/to/your/image/directory"
+image_directory = "/Users/nahalam/Documents/code/ai/ollama/frames"
 
 # Load images from the directory
 image_paths = load_images_from_directory(image_directory)
 
 # Create Gradio interface
+'''
 image_dropdown = gr.inputs.Dropdown(choices=image_paths, label="Select an Image")
 prompt_textbox = gr.inputs.Textbox(label="Enter your prompt (optional)", default="")
 output_textbox = gr.outputs.Textbox(label="Response")
+'''
+image_dropdown = gr.components.Dropdown(choices=image_paths, label="Select an Image")
+prompt_textbox = gr.components.Textbox(label="Enter your prompt (optional)", default="")
+output_textbox = gr.components.Textbox(label="Response")
 
 iface = gr.Interface(
     fn=handle_image_selection,

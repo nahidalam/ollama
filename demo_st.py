@@ -4,7 +4,7 @@ from PIL import Image
 import ollama
 
 # Initialize Ollama API (you might need to configure your API key or other settings)
-ollama.api_key = 'your_api_key_here'
+#ollama.api_key = 'your_api_key_here'
 
 def get_image_descriptions(image_paths, prompt):
     descriptions = []
@@ -31,12 +31,13 @@ st.write("Upload images to generate descriptions using the Ollama API.")
 
 # Directory selection
 uploaded_files = st.file_uploader("Choose images", accept_multiple_files=True, type=["jpg", "jpeg", "png"])
+# Save uploaded files to a temporary directory
+temp_dir = "/Users/nahalam/Documents/code/ai/ollama/temp"
 
 if uploaded_files:
     prompt = st.text_input("Enter the prompt for the description:", value="Describe the image:")
     if st.button("Generate Descriptions"):
-        # Save uploaded files to a temporary directory
-        temp_dir = "temp_images"
+        
         if not os.path.exists(temp_dir):
             os.makedirs(temp_dir)
         
