@@ -5,7 +5,7 @@ import ollama
 
 # Initialize Ollama API (you might need to configure your API key or other settings)
 #ollama.api_key = 'your_api_key_here'
-
+prompt = 'Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment. Do not describe gender or race'
 def get_image_descriptions(image_paths, prompt):
     descriptions = []
     for image_path in image_paths:
@@ -21,21 +21,21 @@ def get_image_descriptions(image_paths, prompt):
                     }
                 ]
             )
-            description = res.get('choices', [{}])[0].get('message', {}).get('content', 'No description available')
-            descriptions.append((image_file_name, description))
+            description = res['message']['content']
+            descriptions.append((image_path, description))
     return descriptions
 
 # Streamlit app layout
-st.title("Image Description Generator")
-st.write("Upload images to generate descriptions using the Ollama API.")
+st.title("Motion Alert Text")
+st.write("Upload images to generate text description")
 
 # Directory selection
 uploaded_files = st.file_uploader("Choose images", accept_multiple_files=True, type=["jpg", "jpeg", "png"])
 # Save uploaded files to a temporary directory
-temp_dir = "/Users/nahalam/Documents/code/ai/ollama/temp"
+temp_dir = "/Users/nahalam/Documents/code/ai/ollama/temp/"
 
 if uploaded_files:
-    prompt = st.text_input("Enter the prompt for the description:", value="Describe the image:")
+    prompt = st.text_input("Enter the prompt for the description:", value=prompt)
     if st.button("Generate Descriptions"):
         
         if not os.path.exists(temp_dir):
@@ -44,11 +44,15 @@ if uploaded_files:
         image_paths = []
         for uploaded_file in uploaded_files:
             image_path = os.path.join(temp_dir, uploaded_file.name)
+            print(temp_dir)
+            print(uploaded_file.name)
+            print(image_path)
             with open(image_path, 'wb') as f:
                 f.write(uploaded_file.getbuffer())
             image_paths.append(image_path)
         
         descriptions = get_image_descriptions(image_paths, prompt)
+        print(descriptions)
 
         st.write("### Generated Descriptions")
         for image_path, description in descriptions:
