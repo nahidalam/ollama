@@ -3,8 +3,6 @@ import os
 from PIL import Image
 import ollama
 
-# Initialize Ollama API (you might need to configure your API key or other settings)
-#ollama.api_key = 'your_api_key_here'
 prompt = 'Describe the person in the image in 1 sentence, with upper and lower body clothing color and their environment. Do not describe gender or race'
 def get_image_descriptions(image_paths, prompt):
     descriptions = []
@@ -27,7 +25,7 @@ def get_image_descriptions(image_paths, prompt):
 
 # Streamlit app layout
 st.title("Motion Alert Text")
-st.write("Upload images to generate text description")
+st.write("Upload motion alert images to generate text description")
 
 # Directory selection
 uploaded_files = st.file_uploader("Choose images", accept_multiple_files=True, type=["jpg", "jpeg", "png"])
